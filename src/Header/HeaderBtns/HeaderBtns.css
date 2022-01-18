@@ -1,0 +1,14 @@
+.header__item:not(:last-child){
+    margin-right: 20px;
+}
+
+.header__item{
+    cursor: pointer;
+    color: #4a90e2;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.header__btns-text{
+    margin: 0 0 0 5px;
+}

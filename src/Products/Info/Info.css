@@ -1,0 +1,30 @@
+.info__sub-title{
+    font-weight: 500;
+    color: #919090;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.info__title{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.info__pack{
+    font-weight: 500;
+    color: #919090;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.Info__size{
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.info__desc{
+    font-size: 14px;
+    font-weight: bold;
+    color: #c2c2c2;
+}

@@ -1,0 +1,7 @@
+.dropdown{
+    margin-left: auto;
+}
+
+.dropdown button:focus{
+    box-shadow: none;
+}

@@ -1,0 +1,14 @@
+.breadcrumb-wrap__item a{
+    text-decoration: none;
+}
+
+.breadcrumb__desc i {
+    margin-right: 5px;
+    width: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.breadcrumb__desc{
+    text-decoration: none;
+    color: #000;
+}

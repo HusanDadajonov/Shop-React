@@ -1,0 +1,20 @@
+.nav__item:not(:last-child){
+    margin-right: 35px;
+}
+.nav__item{
+    cursor: pointer;
+}
+
+.nav__link{
+    color: #a3a1a1;
+    transition: all 0.4s ease;
+    pointer-events: none;
+}
+
+.nav__link:hover{
+    color: #000
+}
+
+.nav__item--active a {
+    color: #000
+}
